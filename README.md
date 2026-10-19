@@ -1,8 +1,5 @@
 # Jarvis — AI Voice Assistant for Claude Code
 
-> Built by [Chi Chen](https://github.com/chichen)
-> Instagram: [@allyoucanchi](https://instagram.com/allyoucanchi)
-
 Jarvis is a voice assistant that wraps around **Claude Code**. Double-snap near your microphone and your entire dev environment spins up: apps open, windows arrange themselves, and Jarvis greets you with the time, weather, and your daily briefing. Then just say **"Jarvis"** to send voice commands directly to your Claude Code session — hands-free AI pair programming.
 
 > **This Windows checkout:** voice commands launch and target the installed local **Codex desktop app**. Automatic browser/Chrome launch is disabled.
@@ -260,19 +257,9 @@ jarvis/
 
 ---
 
-## Community
+## Technology
 
-Join to share setups, voice commands, and get help with setup and customization:
-- [Just Build It on Skool](https://skool.com/just-build-it-2228)
-
----
-
-## Credits
-
-Built by **Chi Chen** — [@chichen](https://github.com/chichen)
-Instagram: [@allyoucanchi](https://instagram.com/allyoucanchi)
-
-Powered by:
+Jarvis uses:
 - [Claude Code](https://claude.ai/download) — Anthropic's AI coding assistant
 - [Anthropic API](https://console.anthropic.com) — Claude Haiku for voice responses and greetings
 - [ElevenLabs](https://elevenlabs.io) — Text-to-speech (Edge TTS as free fallback)
