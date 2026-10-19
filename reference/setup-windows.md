@@ -30,8 +30,8 @@ If missing: install from [claude.ai/download](https://claude.ai/download)
 ## Step 2: Clone the Repo
 
 ```powershell
-git clone https://github.com/chichen/jarvis.git
-cd jarvis
+git clone https://github.com/Geodrino300/Jarvis.git
+cd Jarvis
 ```
 
 ---

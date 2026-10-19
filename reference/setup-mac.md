@@ -35,8 +35,8 @@ If you don't have Homebrew:
 ## Step 2: Clone the Repo
 
 ```bash
-git clone https://github.com/chichen/jarvis.git
-cd jarvis
+git clone https://github.com/Geodrino300/Jarvis.git
+cd Jarvis
 ```
 
 ---
